@@ -1,0 +1,45 @@
+
+
+body {
+  background-image: url("https://i.pinimg.com/originals/81/97/54/81975417de504b094b86dc4c200649be.jpg")
+}
+
+h1 {
+ color: gold;
+ font-family:  "Chalkduster", fantasy;
+ font-size: 70px;
+ font-weight: bold;
+}
+
+h2 {
+  color: purple;
+  font-family: "Chalkduster", fantasy;
+  font-size: 50px;
+  font-weight: bold;
+}
+p {
+  font-size: 50px;
+  font-family: "Chalkduster", fantasy;
+  color: purple;
+}
+
+
+li {
+  color: black;
+  font-family: "Trattatello"
+text-align: left;
+font-size: 20px
+
+}
+
+.list {
+color: purple;
+font-family: "Trattatello"
+text-align: center;
+font-size: 20px
+}
+
+/* #gameLink {
+  text-align: center;
+  border: 1px solid gray;
+} */
